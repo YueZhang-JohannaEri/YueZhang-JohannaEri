@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @YueZhang-JohannaEri, Got my Master's degreee in Business Analytics at Northeastern University (Boston), bechalor's degreee in Finance and Banking at University of Missouri
-- 👀 I’m interested in Quantitative Marketing, Psychology, and Machine Learning Method.
-- 🌱 I’m currently learning the Transformer model(Deep Learning), Transfer learning and Bayesian inference;Quantitative Marketing (in consumer segments, Recommendation system optimization)
-- 📫 How to reach me : you can always find me via HiEricaZhang@gmail.com
-- ⚡ Fun fact: Mathematics is the quantitative language of philosophy. 
+- I am Yue Zhang (Erica). I hold a Master's degreee in Business Analytics at Northeastern University (Boston, MA), and bechalor's degreee in Finance and Banking at University of Missouri (Columbia, MO). I am currently working as a Project Analyst, supporting data-driven and policy-oriented projects in a Municipal Development and Reform Commission.
+- My interests lie in Business Analytics, Operations Research, and Interpretable Machine Learning for Business decision-making.
+- How to reach me : Feel free to reach me via HiEricaZhang@gmail.com
+- Motto: Mathematics is the quantitative language of philosophy. Action is how I fight the void.
 
   
 <!---
