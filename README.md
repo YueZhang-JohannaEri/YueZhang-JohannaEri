@@ -1,7 +1,19 @@
-- I am Yue Zhang (Erica). I hold a Master's degreee in Business Analytics at Northeastern University (Boston, MA), and bechalor's degreee in Finance and Banking at University of Missouri (Columbia, MO). I am currently working as a Project Analyst, supporting data-driven and policy-oriented projects in a Municipal Development and Reform Commission.
-- My interests lie in Business Analytics, Operations Research, and Interpretable Machine Learning for Business decision-making.
-- How to reach me : HiEricaZhang@gmail.com
+### Hi, I’m **Erica Zhang** 👋 
+I hold a Master's degreee in Business Analytics at Northeastern University (Boston, MA), and bechalor's degreee in Finance and Banking at University of Missouri (Columbia, MO). I started working as a Project Analyst in 2022 on policy-oriented projects at the Municipal Development and Reform Commission.
 
+### About me:
+I’m deeply interested in how technology actually lands in real life: how it changes the way we think, make decisions, and express creativity. To me, AI should never shrink our thinking into predefined patterns. It should free us to think more boldly,explore more openly, and create with more confidence. That belief is why I continue exploring Human–AI research after work: to push for an AI future that strengthens human thinking instead of numbing it.
+
+### My interest:
+- The intersection of Human–AI Decision-Making, Business Analytics, and Explainable Machine Learning
+  
+### What I Do: 
+- **Machine Learning & Causal Analysis** for real-world business and user behavior problems  
+- **Knowledge Graph + LLM + Reasoning** for explainable insights and mechanism understanding  
+- **Human–AI Decision Modeling** focusing on how AI affects judgment, confidence, and choice  
+  
+### How to reach me :
+- HiEricaZhang@gmail.com
 
   
 <!---
